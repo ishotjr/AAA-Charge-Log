@@ -97,7 +97,7 @@
 .w-icon {
     width: 32px;
     height: 32px;
-    background-image: url(../styles/images/sprite-weather.png);
+    /* background-image: url(../styles/images/sprite-weather.png); */
     background-repeat: no-repeat;
 }
 .w-icon.sunny { background-position: 0px 0px; }
@@ -120,7 +120,8 @@
 }
 .w-item-template > .w-temp {
     float: right;
-    margin-top: 0.2em;
+    /* margin-top: 0.2em; */
+    margin: 0.5em 0 0 1em;
 }
 .w-item-template > .w-temp > span:last-of-type {
     opacity: 0.5;
