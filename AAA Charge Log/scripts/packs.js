@@ -13,7 +13,7 @@
 
 
             var everlive = new Everlive({
-                apiKey: "apiKey",
+                apiKey: "x0jn2q4G26XP2yAm",
                 scheme: "http"
             });
 
